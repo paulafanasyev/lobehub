@@ -25,7 +25,7 @@
     "test:coverage": "vitest --coverage --silent='passed-only'"
   },
   "dependencies": {
-    "@xmldom/xmldom": "^0.9.10",
+    "@xmldom/xmldom": "^0.9.12",
     "concat-stream": "^2.0.0",
     "debug": "^4.4.3",
     "mammoth": "^1.12.0",
